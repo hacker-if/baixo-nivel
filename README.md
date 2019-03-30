@@ -1,9 +1,11 @@
 # Grupo de Estudos em Computação de Baixo Nível
 
 ## Primeiros Passos
+
 Um grupo de pessoas do Hackerspace IFUSP teve a idéia de criar um grupo de estudos de computação de baixo nível. O objetivo é estudar linguagens, frameworks e técnicas relacionadas à programação próxima do hardware e à computação de alta performance.   
 De um ponto de vista utilitário, esses conhecimentos serão muito úteis a um futuro físico profissional que precise fazer simulações complexas ou analisar grandes volumes de dados. Também muito úteis a analistas de mercado financeiro e a programadores graças a um conhecimento íntimo da interface entre software e hardware.  
 O ponto de partida será a linguagem C++. É uma linguagem de médio nível que servirá de ponte para assuntos posteriores. Junto com o estudo da linguagem em si, estudaremos ferramentas associadas, como make, valgrind e gdb. Depois de estarmos confortáveis com C++, o grupo decidirá que caminho seguir. Existem várias opções:  
+
 - Abaixar ainda mais o nível e estudar Assembly e arquitetura de computadores.
 - Estudar como hackear programas escritos em C/C++ e obter algum controle da máquina alvo (Exige Assembly)
 - Estudar computação paralela, Pthreads, OpenMP, MPI e CUDA (Meu favorito)
@@ -17,6 +19,7 @@ O ponto de partida será a linguagem C++. É uma linguagem de médio nível que 
 O primeiro passo é entrar no nosso grupo do [telegram](https://t.me/joinchat/BOfarRN2rsgiX3Pz3uRI-w). Lá discutiremos dúvidas, as próximas etapas e compartilharemos materiais.  
 
 ## Fontes de Estudo
+
 - [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [Learn CPP](https://www.learncpp.com/)
 - [C++ Tutorial](http://www.cplusplus.com/doc/tutorial/)
