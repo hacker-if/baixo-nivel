@@ -8,4 +8,4 @@ Estudamos variáveis, tipos, loops e condicionais. É sempre importante praticar
 - Dados n e n seqüências de números inteiros não-nulos, cada qual seguida por um 0, calcular a soma dos números pares de cada seqüência.
 - Dados n números inteiros positivos, calcular a soma dos que são primos.
 - Dados x real e n natural, calcular uma aproximação para cos x através dos n primeiros termos da seguinte série:  
-$\cos(x) = 1 - \dfrac{x^2}{2!} + \dfrac{x^4}{4!} + \dfrac{x^6}{6!} + \dots + (-1)^k\dfrac{x^{2k+1}}{(2k)!} + \dots$
+![serie](serie.png)
